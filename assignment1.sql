@@ -36,4 +36,4 @@ INSERT INTO student (student_id, first_name, last_name, email, gpa, enrollment_d
 --SELECT COUNT(*) FROM student;
 
 --q7
-SELECT * FROM student WHERE email LIKE '%cs.example.edu%';
+-- SELECT * FROM student WHERE email LIKE '%cs.example.edu%';
